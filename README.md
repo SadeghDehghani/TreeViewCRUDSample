@@ -2,4 +2,4 @@
 
 برای اینکه  بتوانیم بصورت  درختی  مواردی را ایجاد کنیم
 
-![My Screenshot](/TreeViewCRUDSample/Screenshot 2025-07-10 115317.png)
+![My Screenshot](https://raw.githubusercontent.com/SadeghDehghani/TreeViewCRUDSample/refs/heads/main/TreeViewCRUDSample/Screenshot%202025-07-10%20115317.png)
